@@ -1,0 +1,26 @@
+table {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}
+
+td {
+    font-size: 100px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(47, 223, 47);
+    text-align: center;
+
+}
+
+td:hover {
+
+    background-color: lightgreen;
+
+}
+
+h2 {
+    text-align: center;
+    padding top: ;:100px;
+}
